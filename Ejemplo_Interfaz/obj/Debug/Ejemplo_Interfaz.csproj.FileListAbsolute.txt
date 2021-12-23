@@ -1,0 +1,44 @@
+C:\Users\ferna\source\repos\Ejemplo_Interfaz\bin\Debug\Ejemplo_Interfaz.exe.config
+C:\Users\ferna\source\repos\Ejemplo_Interfaz\bin\Debug\Ejemplo_Interfaz.exe
+C:\Users\ferna\source\repos\Ejemplo_Interfaz\bin\Debug\Ejemplo_Interfaz.pdb
+C:\Users\ferna\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.csprojAssemblyReference.cache
+C:\Users\ferna\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.Form1.resources
+C:\Users\ferna\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.Form2.resources
+C:\Users\ferna\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.Form3.resources
+C:\Users\ferna\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.Properties.Resources.resources
+C:\Users\ferna\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.csproj.GenerateResource.cache
+C:\Users\ferna\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.exe
+C:\Users\ferna\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.pdb
+C:\Users\ferna\OneDrive\Documentos\Visual Studio\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.csprojAssemblyReference.cache
+C:\Users\ferna\OneDrive\Documentos\Visual Studio\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.Form1.resources
+C:\Users\ferna\OneDrive\Documentos\Visual Studio\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.Form2.resources
+C:\Users\ferna\OneDrive\Documentos\Visual Studio\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.Form3.resources
+C:\Users\ferna\OneDrive\Documentos\Visual Studio\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.Properties.Resources.resources
+C:\Users\ferna\OneDrive\Documentos\Visual Studio\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\Documentos\Visual Studio\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documentos\Visual Studio\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.exe
+C:\Users\ferna\OneDrive\Documentos\Visual Studio\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.pdb
+C:\Users\Luis Zertuche\source\repos\Ejemplo_Interfaz\bin\Debug\Ejemplo_Interfaz.exe.config
+C:\Users\Luis Zertuche\source\repos\Ejemplo_Interfaz\bin\Debug\Ejemplo_Interfaz.exe
+C:\Users\Luis Zertuche\source\repos\Ejemplo_Interfaz\bin\Debug\Ejemplo_Interfaz.pdb
+C:\Users\Luis Zertuche\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.csprojAssemblyReference.cache
+C:\Users\Luis Zertuche\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.Form1.resources
+C:\Users\Luis Zertuche\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.Form2.resources
+C:\Users\Luis Zertuche\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.Form3.resources
+C:\Users\Luis Zertuche\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.Form4.resources
+C:\Users\Luis Zertuche\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.Form5.resources
+C:\Users\Luis Zertuche\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.Properties.Resources.resources
+C:\Users\Luis Zertuche\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.csproj.GenerateResource.cache
+C:\Users\Luis Zertuche\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Luis Zertuche\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.exe
+C:\Users\Luis Zertuche\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.pdb
+C:\Users\Luis Zertuche\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.Ordenamiento.resources
+C:\Users\Luis Zertuche\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.OrdeXSelec.resources
+C:\Users\Luis Zertuche\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.Burbuja.resources
+C:\Users\Luis Zertuche\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.Shell.resources
+C:\Users\Luis Zertuche\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.BusqLineal.resources
+C:\Users\Luis Zertuche\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.Busqueda.resources
+C:\Users\Luis Zertuche\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.k_vecinos.resources
+C:\Users\Luis Zertuche\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.BusqBinaria.resources
+C:\Users\Luis Zertuche\source\repos\Ejemplo_Interfaz\obj\Debug\Ejemplo_Interfaz.QuickSort.resources
